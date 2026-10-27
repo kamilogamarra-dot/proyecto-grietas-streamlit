@@ -31,3 +31,7 @@ La primera instalación puede tardar porque TensorFlow es una dependencia grande
 ## Alcance
 
 El entrenamiento del notebook usa una sola época. La predicción y el nivel de riesgo son resultados preliminares y no sustituyen una inspección estructural profesional.
+
+## LINK
+
+https://proyecto-grietas-app-9qqdr4gdyaekxp8mkzxxur.streamlit.app/
